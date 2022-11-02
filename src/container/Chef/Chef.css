@@ -4,6 +4,9 @@
     width: 100%;
     margin-top: 5rem;
 }
+.my{
+    color: black;
+}
 
 .app__chef-content_quotes{
     display: flex;

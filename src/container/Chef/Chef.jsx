@@ -15,7 +15,7 @@ const Chef = () => (
       <div className='app__chef-content'>
         <div className='app__chef-content_quotes'>
           <img src={images.quote} alt='quotes'/>
-          <p className='p__opensans'>To get going is to get started, yes you can</p>
+          <p className='p__opensans' my>To get going is to get started, yes you can</p>
         </div>
         <p className='p__opensans'>if you want to move fast go alone but if you want to go far walk in group </p>
       </div>
